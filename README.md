@@ -1,2 +1,2 @@
-# Matplotlib_Challenge-
+# Matplotlib_Challenge
 Matplotlib HW
